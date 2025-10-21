@@ -38,7 +38,7 @@ A modern and responsive **ToDo List** web application built with **Flask** and *
 
 ## If you prefer building and running the app locally:
 
-- git clone https://github.com/your-username/your-repo-name.git
+- git clone https://github.com/AhmedMohamed056/todo-app.git
 - cd your-repo-name
 
 ## Build & start services
@@ -51,4 +51,3 @@ A modern and responsive **ToDo List** web application built with **Flask** and *
 ## If you're running it locally (without Docker), install with
 - pip install -r requirements.txt
 
-![App Screenshot](https://via.placeholder.com/900x500.png?text=Todo+App+Screenshot)
