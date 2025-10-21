@@ -1,0 +1,11 @@
+version: "3.9"
+
+services:
+  flaskapp:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - FLASK_ENV=development
+    # تأكد إن التطبيق في app.py بيشتغل على 0.0.0.0 عشان يشتغل صح مع الدوكر
+
