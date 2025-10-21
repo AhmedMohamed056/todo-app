@@ -2,9 +2,11 @@
 
 A modern and responsive **ToDo List** web application built with **Flask** and **MongoDB**, styled with clean HTML/CSS, and containerized using **Docker & Docker Compose**.
 
-![App Screenshot](https://via.placeholder.com/900x500.png?text=Todo+App+Screenshot)
+---<img width="1920" height="1000" alt="Screenshot 2025-10-21 at 17-05-43 📝 Todo List" src="https://github.com/user-attachments/assets/24aa275a-7af1-4953-8b48-77782004558b" />
 
----
+<img width="1920" height="963" alt="Screenshot 2025-10-21 at 17-04-42 Edit Task" src="https://github.com/user-attachments/assets/5640fa6d-d310-4faa-95be-312a6dc9a724" />
+
+
 
 ## ✨ Features
 
@@ -39,7 +41,7 @@ A modern and responsive **ToDo List** web application built with **Flask** and *
 ## If you prefer building and running the app locally:
 
 - git clone https://github.com/AhmedMohamed056/todo-app.git
-- cd your-repo-name
+- cd todo-app
 
 ## Build & start services
 - docker-compose up --build
